@@ -5,7 +5,7 @@ This configuration file is inspired by:
 
 * http://mauriciogardini.com/post/43348489262/slate-a-mac-os-x-window-manager-for-power-users
 
-* https://github.com/cmrosenberg/config.slate.git
+* http://thume.ca/howto/2012/11/19/using-slate/
 
 ## Installation
 
